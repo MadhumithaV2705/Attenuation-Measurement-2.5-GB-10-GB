@@ -92,4 +92,5 @@ Your report should contain:
 <img width="1427" height="1600" alt="WhatsApp Image 2026-05-13 at 5 58 07 PM" src="https://github.com/user-attachments/assets/75f477a9-d18b-41ae-b14f-2c1ef748b0f3" />
 
 ## Result
+
 Thus, the Experiment was succesfully completed and output is verified.
