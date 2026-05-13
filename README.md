@@ -74,11 +74,17 @@ Your report should contain:
 
 - **Pre-lab Calculations**  
 
-- **Screenshots** of layout and results (including eye diagrams)  
+- **Screenshots** of layout and results (including eye diagrams)
+- **10GB**
+<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/0afcfc9d-b8b9-4f39-881b-2bc67fc87fc6" />
+<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/5f69ff09-ec54-418a-bbf6-1209126e0a01" />
+
+-**2.5GB**
+<img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/397f225d-5f08-4eea-ba16-faf264f655d0" />
+<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/81f4e16a-db2f-41a3-82cd-ef7b1662416d" />
 
 - **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
+<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/3ef98384-fad0-4a2d-ba1e-c3760cd66784" />
 
-- **Written Summary** of observations and explanations of differences.  
+## Result
+Thus, the Experiment was succesfully completed and output is verified.
